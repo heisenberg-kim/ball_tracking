@@ -1,0 +1,9 @@
+path: Users/heisenbergk/ball_tracking/datasets/football_cricketball
+train: /Users/heisenbergk/ball_tracking/datasets/football_cricketball/train/images
+val: /Users/heisenbergk/ball_tracking/datasets/football_cricketball/val/images
+
+nc: 2
+names:
+  0: cricket_ball
+  1: soccer_ball
+

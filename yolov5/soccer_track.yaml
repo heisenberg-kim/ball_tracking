@@ -1,0 +1,6 @@
+path: /Users/heisenbergk/ball_tracking/datasets/soccer_track
+train: /Users/heisenbergk/ball_tracking/datasets/soccer_track/images/train
+val: /Users/heisenbergk/ball_tracking/datasets/soccer_track/images/val
+
+nc: 1
+names: ['ball']
